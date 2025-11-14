@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Montserrat;
+}
+
+
+body{
+  background: #0e0e0e;
+}
+
+button {
+  border: none;
+  background: none;
+}
+
+ul {
+  list-style: none;
+}
+
+img {
+  max-width: 100%;
+  border-radius: inherit;
+
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.container {
+ max-width:  1551px;
+  margin: 0 auto;
+  padding: 20px 10px 0 10px;
+}
